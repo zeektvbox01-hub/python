@@ -8,7 +8,7 @@ A leap year (in the Gregorian calendar) occurs:
 Some examples:
 
 - 1997 was not a leap year as it's not divisible by 4.
-- 1900 was not a leap year as it's not divisible by 400.
+- 1900 was not a leap year as it's divisible by 100 but not divisible by 400 .
 - 2000 was a leap year!
 
 ~~~~exercism/note
